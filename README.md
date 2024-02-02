@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Sohail
+- 😊 I can speak English and Urdu
 - 👀 I’m interested in Front-End Development
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me @chullzcode
